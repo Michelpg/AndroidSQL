@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLapli</string>
+
+    <string-array name="association">
+        <item>AssociationX</item>
+        <item>AssociationY</item>
+        <item>AssociationZ</item>
+
+
+    </string-array>
+</resources>
